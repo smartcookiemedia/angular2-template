@@ -7,4 +7,4 @@ Angular2 demo which goes in depth of filtering, routing, two way binding & angul
 
 Demo :
 
-http://smartcookiemedia.github.io/angular2-template
+http://smartcookiemedia.github.io/angular2-template/builds/development/index.html
